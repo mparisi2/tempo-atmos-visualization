@@ -1,2 +1,2 @@
 # tempo-atmos-visualization
-A geospatial data fusion and visualization tool that integrates TEMPO O₃, NO₂, and formaldehyde column products to analyze atmospheric chemical interactions.
+This repository contains a Python-based workflow for retrieving, processing, and visualizing atmospheric trace gas data from NASA’s TEMPO mission using the Earthaccess API. The project overlays tropospheric column concentrations of ozone (O₃), nitrogen dioxide (NO₂), and formaldehyde (HCHO) to explore spatial patterns and chemical relationships in urban and regional air quality.
